@@ -16,7 +16,7 @@
 </div>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,postman&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,postman)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight&hide_border=false)<br/>
