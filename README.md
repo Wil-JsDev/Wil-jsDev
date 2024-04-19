@@ -14,23 +14,24 @@ Passionate about backend development and constantly learning C#. Seeking challen
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,postman)](https://skillicons.dev)
-# 📊 GitHub Stats:
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-## 🌐 Socials:
-<div align='center'>
-  
 <ul>
 <a href="https://www.linkedin.com/in/wilmer-jose-de-la-cruz-22919925a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Wilmer De La Cruz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </ul>
 </div>
----
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Socials:
+<div align='center'>
+  
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
