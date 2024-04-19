@@ -4,12 +4,14 @@
 
 
 ## 🌐 Socials:
+<div align='center'>
 
 <ul>
 <a href="https://www.linkedin.com/in/wilmer-jose-de-la-cruz-22919925a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Wilmer Jose-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Wilmer De La Cruz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-  
+</ul>
+</div>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet&perline=3)](https://skillicons.dev)
