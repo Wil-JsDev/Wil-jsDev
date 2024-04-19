@@ -19,7 +19,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 <div align='center'>
 <ul>
 <a href="https://www.linkedin.com/in/wilmer-jose-de-la-cruz-22919925a/" target="_blank">
