@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
+<h4 align="center">  Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code! </h4>
 
 [![](https://visitcount.itsvg.in/api?id=Wil-JsDev&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
