@@ -1,9 +1,9 @@
 # Hey there, I'm Wilmer De La Cruz
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
 </p>
 
-## <picture><img src="https://github.com/Wil-JsDev/Wil-jsDev/blob/main/rock-lee.gif" width = 50px ></picture> **About me**
+## <picture><img src="https://github.com/Wil-JsDev/Wil-jsDev/blob/main/rock-lee-eight-gates.gif" width = 100px ></picture> **About me**
 
 🔭 Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
 
