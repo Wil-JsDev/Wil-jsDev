@@ -1,6 +1,6 @@
 # Hey there, I'm Wilmer De La Cruz
 
-## <picture><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/rock-lee-training-naruto-gif-18053331.gif" width = 50px ></picture> **About me**
+## <picture><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/rock-lee-training-naruto-18053331.gif" width = 50px ></picture> **About me**
 🔭 Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
 
 
