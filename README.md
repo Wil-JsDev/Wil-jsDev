@@ -1,6 +1,6 @@
 # Hey there, I'm Wilmer De La Cruz
 
-## <picture><img src="tenor-gif-embed" data-postid="18053331" data-share-method="host" data-aspect-ratio="1.77778" width = 50px ></picture> **About me**
+## <picture><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width = 50px ></picture> **About me**
 
 🔭 Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
 
