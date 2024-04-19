@@ -1,6 +1,7 @@
 # Hey there, I'm Wilmer De La Cruz
 
-# 💫 About Me:
+## ## <picture><img src="https://tenor.com/es-419/view/rock-lee-training-naruto-gif-18053331" width = 50px ></picture> **About me**
+
 🔭 Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
 
 
