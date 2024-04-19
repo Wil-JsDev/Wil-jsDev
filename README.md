@@ -3,9 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
 </p>
 
-## <picture><img src="https://github.com/Wil-JsDev/Wil-jsDev/blob/main/rock-lee-eight-gates.gif" width = 100px ></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code!
+
 [![](https://visitcount.itsvg.in/api?id=Wil-JsDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
