@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <h3 align="center">  Passionate about backend development and constantly learning C#. Seeking challenges to drive my growth as a developer. Building the future, line of code by line of code! </h3>
 
