@@ -18,8 +18,8 @@ Building the future, line of code by line of code!
 }
 }
 ```
->“El código limpio es simple y sencillo. Un código limpio se lee como una prosa bien escrita. El código limpio nunca oscurece la intención del diseñador, sino que se completa con abstracciones nítidas y líneas de control sencillas” -Robert C. Martin
->
+> “El código limpio es simple y sencillo. Un código limpio se lee como una prosa bien escrita. El código limpio nunca oscurece la intención del diseñador, sino que se completa con abstracciones nítidas y líneas de control sencillas” -Robert C. Martin
+
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align='center'>
