@@ -23,11 +23,6 @@ Building the future, line of code by line of code!
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,postman,git)](https://skillicons.dev)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-![](https://github-readme-stats.vercel.app/api?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-JsDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align='center'>
