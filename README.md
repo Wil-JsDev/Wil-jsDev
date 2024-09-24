@@ -34,6 +34,14 @@ Building the future, line of code by line of code!
 </ul>
 </div>
 
+<h2 align="left">Stars</h2> 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-JsDev&layout=compact&theme=tokyonight" alt="Wil-JsDev" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wil-JsDev&show_icons=true&locale=en&theme=tokyonight" alt="Wil-JsDev" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight" alt="Wil-JsDev" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
