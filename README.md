@@ -21,6 +21,17 @@ Building the future, line of code by line of code!
 ```
 > “El código limpio es simple y sencillo. Un código limpio se lee como una prosa bien escrita. El código limpio nunca oscurece la intención del diseñador, sino que se completa con abstracciones nítidas y líneas de control sencillas” - Robert C. Martin
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="left">Working</h2>
+
+<div>
+  <p align="left">
+	<a href="https://github.com/Wil-JsDev/ExpenseAPI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=ExpenseAPI-back&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+</div>
+
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker)](https://skillicons.dev)
 
