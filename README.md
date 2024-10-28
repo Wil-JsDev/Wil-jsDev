@@ -27,7 +27,7 @@ Building the future, line of code by line of code!
 
 <div>
   <p align="left">
-    <a href="https://github.com/Wil-JsDev/ExpenseAPI">
+    <a href="https://github.com/Wil-JsDev/CuidandoPawsApi">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=CuidandoPawsApi&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
