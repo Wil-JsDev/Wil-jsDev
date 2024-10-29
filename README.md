@@ -33,16 +33,6 @@ Building the future, line of code by line of code!
   </p>
 </div>
 
-<div>
-  <p align="left">
-    <a href="https://github.com/ManasesLovera/ArreglaYa">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=ArreglaYa&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
-
-
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker)](https://skillicons.dev)
 
