@@ -6,16 +6,12 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 ```C#
-public interface IProfile{
-string GetBio()
-}
-
-public class Profile : IProfile {
+public class Profile {
 
 public string GetBio () {
-Passionate about backend development and constantly learning C#.
-Seeking challenges to drive my growth as a developer.
-Building the future, line of code by line of code!
+string[] mainLanguages ={"C#"}
+string[] passionateAbout = {"backend development and constantly learning C#.",
+"Building the future, line of code by line of code!"}
 }
 }
 ```
