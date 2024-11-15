@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: center;">
 
-<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
 
 ```json
 {
@@ -24,8 +24,9 @@
     "Never stop creating new ideas"
   ]
 }
-</div> 
 ```
+</div> 
+
 > “El código limpio es simple y sencillo. Un código limpio se lee como una prosa bien escrita. El código limpio nunca oscurece la intención del diseñador, sino que se completa con abstracciones nítidas y líneas de control sencillas” - Robert C. Martin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
