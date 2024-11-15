@@ -1,20 +1,30 @@
-# Hey there, I'm Wilmer De La Cruz <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
+# 1. Hey there, I'm Wilmer De La Cruz <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-```C#
-public class Profile {
+## 1.1. <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<!-- My Profile -->
 
-public string GetBio () {
-string[] mainLanguages ={"C#"}
-string[] passionateAbout = {"backend development and constantly learning C#.",
-"Building the future, line of code by line of code!"}
+<div style="display: flex; align-items: center;">
+
+<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
+
+```json
+{
+  "mainLanguages": "C#",
+  "passionateAbout": [
+    "backend development and constantly learning C#.",
+    "Building the future, line of code by line of code!",
+    "Learning everything about Backend technologies"
+  ],
+  "futureGoals": [
+    "Learn more technologies",
+    "Never stop creating new ideas"
+  ]
 }
-}
-```
+</div> ```
 > “El código limpio es simple y sencillo. Un código limpio se lee como una prosa bien escrita. El código limpio nunca oscurece la intención del diseñador, sino que se completa con abstracciones nítidas y líneas de control sencillas” - Robert C. Martin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -29,10 +39,10 @@ string[] passionateAbout = {"backend development and constantly learning C#.",
   </p>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## 1.2. <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,mongodb,docker)](https://skillicons.dev)
 
-## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 1.3. <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align='center'>
 <ul>
@@ -50,7 +60,7 @@ string[] passionateAbout = {"backend development and constantly learning C#.",
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight" alt="Wil-JsDev" />
 </div>
 
-## 🏆 GitHub Trophies
+## 1.4. 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
