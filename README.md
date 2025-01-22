@@ -33,8 +33,8 @@
 
 <div>
   <p align="left">
-    <a href="https://github.com/Wil-JsDev/CuidandoPawsApi">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=CuidandoPawsApi&theme=tokyonight" alt="GitHub Stats" />
+    <a href="https://github.com/Wil-JsDev/MetaBond-Backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=MetaBond-Backend&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
