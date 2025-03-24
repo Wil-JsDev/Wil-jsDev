@@ -1,5 +1,5 @@
 # Hey there, I'm Wilmer De La Cruz <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="20px"/> 👨🏽‍💻
-
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/USERNAME.svg)](https://user-badge.committers.top/dominican_republic_private/Wil-JsDev)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;In+Process+of+Backend+Developer;Increasing%20my%20learning&center=true&width=500&height=50"></a>
 </p>
