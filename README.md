@@ -10,27 +10,27 @@
 <div style="display: flex; align-items: center;">
 
 ``` .yml
-name: "Wilmer De La Cruz"
-role: "Backend Developer | Software Developer"
+name: Wilmer De La Cruz
+role: Backend Developer | Software Developer
 skills:
-  - "Backend Development"
-  - "Software Architecture"
-  - "Design Patterns"
-  - "Clean Code & SOLID Principles"
-  - "Problem Solving"
+  - Backend Development
+  - Software Architecture
+  - Design Patterns
+  - Clean Code & SOLID Principles
+  - Problem Solving
 
 languages: "C#"
 
 passionateAbout: |
-  "I'm passionate about backend development and software architecture.
+  I'm passionate about backend development and software architecture.
 I enjoy exploring design patterns and solving complex problems through efficient, scalable solutions.
 Cloud computing deeply interests me, and it's an area I'm actively studying to master.
 I'm well-versed in software architecture, with strong knowledge of the CQRS pattern and a deep interest in microservices architecture.
-Continuous learning is at the core of my development journey."
+Continuous learning is at the core of my development journey.
 
 learning:
-  - "JavaScript"
-  - "TypeScript"
+  - JavaScript
+  - TypeScript
 ```
 </div> 
 
