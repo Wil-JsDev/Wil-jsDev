@@ -12,17 +12,31 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
 
 ``` .yml
+name: "Wilmer De La Cruz"
+role: "Backend Developer | Software Developer"
+skills:
+  - "Backend Development"
+  - "Software Architecture"
+  - "Design Patterns"
+  - "Clean Code & SOLID Principles"
+  - "Problem Solving"
+
 languages: "C#"
 
-passionateAbout:
-  - "Backend development and constantly learning C#."
-  - "Building the future, line of code by line of code!"
-  - "Learning everything about Backend technologies"
+passionateAbout: "I'm passionate about backend development and software architecture.
+I enjoy exploring design patterns and solving complex problems through efficient, scalable solutions.
+Cloud computing deeply interests me, and it's an area I'm actively studying to master.
+I'm well-versed in software architecture, with strong knowledge of the CQRS pattern and a deep interest in microservices architecture. Continuous learning is at the core of my development journey."
+
+learning:
+  - "JavaScript"
+  - "TypeScript"
 
 futureGoals:
-  - "Learn more technologies"
-  - "Never stop creating new ideas"
-
+  - "Expand my knowledge in modern technologies and development practices"
+  - "Learn JavaScript and TypeScript to strengthen my full-stack skills"
+  - "Start learning Cloud Computing and grow my understanding over time"
+  - "Never stop creating and building innovative ideas"
 ```
 </div> 
 
