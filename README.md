@@ -11,19 +11,18 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" style="margin-right: 20px;" />
 
-```json
-{
-  "mainLanguages": "C#",
-  "passionateAbout": [
-    "backend development and constantly learning C#.",
-    "Building the future, line of code by line of code!",
-    "Learning everything about Backend technologies"
-  ],
-  "futureGoals": [
-    "Learn more technologies",
-    "Never stop creating new ideas"
-  ]
-}
+``` .yml
+languages: "C#"
+
+passionateAbout:
+  - "Backend development and constantly learning C#."
+  - "Building the future, line of code by line of code!"
+  - "Learning everything about Backend technologies"
+
+futureGoals:
+  - "Learn more technologies"
+  - "Never stop creating new ideas"
+
 ```
 </div> 
 
