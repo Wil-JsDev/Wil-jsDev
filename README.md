@@ -19,7 +19,10 @@ skills:
   - Clean Code & SOLID Principles
   - Problem Solving
 
-languages: "C#"
+languages:
+  - JavaScript
+  - TypeScript
+  - C#
 
 passionateAbout: |
   I'm passionate about backend development and software architecture.
@@ -30,8 +33,7 @@ passionateAbout: |
   Continuous learning is at the core of my development journey.
 
 learning:
-  - JavaScript
-  - TypeScript
+  - Angular
 ```
 </div> 
 
