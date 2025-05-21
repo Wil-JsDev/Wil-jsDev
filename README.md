@@ -20,7 +20,6 @@ skills:
   - Problem Solving
 
 languages:
-  - JavaScript
   - TypeScript
   - C#
 
@@ -50,7 +49,7 @@ learning:
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,hmtl,ts,postgres,redis,mongodb,docker,githubactions,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes)](https://skillicons.dev)
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
