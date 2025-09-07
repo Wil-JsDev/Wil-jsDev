@@ -13,8 +13,6 @@ Hi, I'm **Wilmer De La Cruz** 👋
 🚀 Passionate about backend development, clean architecture, and building scalable, efficient systems.  
 📚 Always learning about **cloud computing, CQRS, and microservices**.  
 
----
-
 # ⚡ Tech Stack
 
 - **Languages:** C#, TypeScript  
