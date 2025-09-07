@@ -7,8 +7,6 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-# 👨‍💻 About Me
-
 Hi, I'm **Wilmer De La Cruz** 👋  
 💻 Backend Developer | Software Developer  
 
@@ -23,8 +21,6 @@ Hi, I'm **Wilmer De La Cruz** 👋
 - **Frameworks:** ASP.NET Core, Angular  
 - **Databases:** PostgreSQL, SQL Server, Redis  
 - **DevOps:** Docker, Kubernetes, GitHub Actions  
-
----
 
 🌱 *"Continuous learning is at the core of my journey as a developer."*  
 
