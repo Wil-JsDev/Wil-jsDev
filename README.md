@@ -6,11 +6,8 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <!-- My Profile -->
-
-<div style="display: flex; align-items: center;">
-
-# 👨‍💻 About Me
 
 Hi, I'm **Wilmer De La Cruz** 👋  
 💻 Backend Developer | Software Developer  
@@ -30,8 +27,6 @@ Hi, I'm **Wilmer De La Cruz** 👋
 ---
 
 🌱 *"Continuous learning is at the core of my journey as a developer."*  
-
-</div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
