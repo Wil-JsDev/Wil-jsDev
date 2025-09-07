@@ -7,35 +7,36 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<div align="center">
 <!-- My Profile -->
 
 ``` .yml
 name: Wilmer De La Cruz
 role: Backend Developer | Software Developer
-skills:
-  - Software Developer - Full Stack
-  - Backend Developer
-  - Software Architecture
-  - Design Patterns
-  - Clean Code & SOLID Principles
-  - Problem Solving
 
-languages:
-  - TypeScript
-  - C#
+about: |
+  Passionate about backend development, clean architecture, and building scalable, efficient systems.
+  Always learning about cloud computing, CQRS, and microservices.
 
-Framework:
-  - Angular
-  - ASP.NET Core
+techStack:
+  languages:
+    - C#
+    - TypeScript
+  frameworks:
+    - ASP.NET Core
+    - Angular
+  databases:
+    - PostgreSQL
+    - SQL Server
+    - Redis
+  devops:
+    - Docker
+    - Kubernetes
+    - GitHub Actions
 
-passionateAbout: |
-  I'm passionate about backend development and software architecture.
-  I enjoy exploring design patterns and solving complex problems through efficient, scalable solutions.
-  Cloud computing deeply interests me, and it's an area I'm actively studying to master.
-  I'm well-versed in software architecture, with strong knowledge of the CQRS pattern and a deep interest in microservices architecture.
-  I'm also enthusiastic about working with databases and backend infrastructure, understanding how everything connects to build reliable and scalable systems.
-  Continuous learning is at the core of my development journey.
+quote: "Continuous learning is at the core of my journey as a developer."
 ```
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
