@@ -10,15 +10,9 @@
 Hi, I'm **Wilmer De La Cruz** 👋  
 💻 Backend Developer | Software Developer  
 
-🚀 Passionate about backend development, clean architecture, and building scalable, efficient systems.  
-📚 Always learning about **cloud computing, CQRS, and microservices**.  
-
-# ⚡ Tech Stack
-
-- **Languages:** C#, TypeScript  
-- **Frameworks:** ASP.NET Core, Angular  
-- **Databases:** PostgreSQL, SQL Server, Redis  
-- **DevOps:** Docker, Kubernetes, GitHub Actions  
+🚀 Passionate about backend development and software architecture, exploring design patterns and solving complex problems with scalable solutions.  
+📚 Enthusiastic about **cloud computing, CQRS, microservices, and backend infrastructure**.  
+🗄️ I enjoy working with databases and understanding how everything connects to build reliable systems.  
 
 🌱 *"Continuous learning is at the core of my journey as a developer."*  
 
