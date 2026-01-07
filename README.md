@@ -49,7 +49,4 @@ Hi, I'm **Wilmer De La Cruz** 👋
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight" alt="Wil-JsDev" />
 </div> -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
