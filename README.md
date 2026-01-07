@@ -35,19 +35,19 @@ Hi, I'm **Wilmer De La Cruz** 👋
 
 <div align='center'>
 <ul>
-<a href="https://www.linkedin.com/in/wilmer-jose-de-la-cruz-22919925a/" target="_blank">
+<a href="www.linkedin.com/in/wilmer-dlcruz" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Wilmer De La Cruz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </ul>
 </div>
 
-<h2 align="left">Stars</h2> 
+<!-- <h2 align="left">Stars</h2>  -->
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-JsDev&layout=compact&theme=tokyonight" alt="Wil-JsDev" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wil-JsDev&show_icons=true&locale=en&theme=tokyonight" alt="Wil-JsDev" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wil-JsDev&theme=tokyonight" alt="Wil-JsDev" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wil-JsDev&theme=nord&no-frame=false&no-bg=true&margin-w=4)
